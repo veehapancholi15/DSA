@@ -7,3 +7,4 @@
 ## HomeWork Date 06-01-2025
 -Kadans Algorithm- Max, Min, Subarray, SubTree
 -Dutch National Flag Algorithm
+-Bit manuplation
